@@ -33,8 +33,7 @@ Elevate your cybersecurity strategy with Ironchip Identity Platform, designed to
 Download the latest Ironchip PAM module for Linux (`.so` file):
 
 <p align="left">
-  <a href="[https://github.com/Ironchip-Security/Ironchip-Linux-Logon/releases/latest/download/pam_ironchip_auth.so](https://github.com/Ironchip-Security/Ironchip-Linux-Logon/releases/latest/download/ironchip-pam-installer.tar.gz
-)">
+  <a href="https://github.com/Ironchip-Security/Ironchip-Linux-Logon/releases/latest/download/ironchip-pam-installer.tar.gz">
     <img alt="Download Ironchip Module" src="https://custom-icon-badges.demolab.com/badge/-Download%20Module-blue?style=for-the-badge&logo=download&logoColor=white">
   </a>
 </p>
